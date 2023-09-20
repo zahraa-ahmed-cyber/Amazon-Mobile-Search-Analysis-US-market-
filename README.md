@@ -1,7 +1,7 @@
 # Amazon US market 
-Analyzing all mobile search pages on Amazon US market and making a report that covers :
 Access full report here : https://deepnote.com/@bloom-8f40/AmazonAnalysis-cdb54498-29e9-4c0a-94ef-629df21c9654
 
+Analyzing all mobile search pages on Amazon US market and making a report that covers :
 1-Product Insights: 
 What are the top-rated products based on their star ratings?
 What is the average star rating for products in this dataset?
